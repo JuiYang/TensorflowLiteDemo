@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/layout_cnndroid.xml.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/layout/cnndroid.xml"
+    },
+    {
+        "merged": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/tclxa/AndroidStudioProjects/TensorflowLite-demo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
